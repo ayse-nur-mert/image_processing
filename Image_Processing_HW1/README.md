@@ -1,7 +1,3 @@
-# Image Processing Homework 1
-
-This repository contains homework assignments for the Image Processing course. Below is the description of Homework 1.
-
 ## Homework 1
 
 ### Description
